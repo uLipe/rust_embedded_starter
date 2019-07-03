@@ -19,7 +19,7 @@ provide your admin password at certain point, be aware of that:
 ```
     $ ./rust_embedded_install.sh 
 ```
-#Building a code:
+# Building a code:
 Once the RUST toolset has been installed you can play with the examples on hello folder,
 here there are a pre configured project based on <b> cortex_m_quickstarter</b> crate, 
 just enter on hello directory, make changes on main.rs file, after that build using 
